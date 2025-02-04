@@ -1,10 +1,4 @@
 
-      "login": "januszgrze",
-      "name": "janusz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/82240624?v=4",
-      "profile": "https://github.com/januszgrze",
-      "contributions": [
-        "review"
       ]
   "projectName": "bitcoin-circle-stark",
   "projectOwner": "Bitcoin-Wildlife-Sanctuary",
@@ -72,7 +66,13 @@
     }
   ]
 }
-{
+
+      "login": "januszgrze",
+      "name": "janusz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82240624?v=4",
+      "profile": "https://github.com/januszgrze",
+      "contributions": [
+        "review"
  { "login": "PayneJoe",
       "name": "PayneJoe",
       "avatar_url": "https://avatars.githubusercontent.com/u/6851723?v=4",

@@ -1,11 +1,4 @@
 
-      ]
-  
-  "commitType": "docs",
-  "commitConvention": "angular",
-  "contributorsPerLine": 7,
-  "contributors": [
-    {
       "login": "victorkstarkware",
       "name": "victorkstarkware",
       "avatar_url": "https://avatars.githubusercontent.com/u/160594433?v=4",
@@ -25,7 +18,14 @@
       "profile": "http://starknet.io",
       "contributions": [
         "maintenance"
+     
       ]
+  
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
     },
     {
       "login": "dependabot",

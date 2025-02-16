@@ -1,11 +1,5 @@
 
-      "login": "victorkstarkware",
-      "name": "victorkstarkware",
-      "avatar_url": "https://avatars.githubusercontent.com/u/160594433?v=4",
-      "profile": "https://github.com/victorkstarkware",
-      "contributions": [
-        "code"
-      ]
+  
 "projectName": "bitcoin-circle-stark",
   "projectOwner": "Bitcoin-Wildlife-Sanctuary",
   "files": [
@@ -18,7 +12,13 @@
       "profile": "http://starknet.io",
       "contributions": [
         "maintenance"
-     
+         "login": "victorkstarkware",
+      "name": "victorkstarkware",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160594433?v=4",
+      "profile": "https://github.com/victorkstarkware",
+      "contributions": [
+        "code"
+      ]
       ]
   
   "commitType": "docs",

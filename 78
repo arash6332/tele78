@@ -1,12 +1,6 @@
 
   
-"projectName": "bitcoin-circle-stark",
-  "projectOwner": "Bitcoin-Wildlife-Sanctuary",
-  "files": [
-    "README.md"
-  ],
-    {
-      "login": "AbdelStark",
+"AbdelStark",
       "name": "Abdel @ StarkWare ",
       "avatar_url": "https://avatars.githubusercontent.com/u/45264458?v=4",
       "profile": "http://starknet.io",
@@ -20,7 +14,13 @@
         "code"
       ]
       ]
-  
+  "projectName": "bitcoin-circle-stark",
+  "projectOwner": "Bitcoin-Wildlife-Sanctuary",
+  "files": [
+    "README.md"
+  ],
+    {
+      "login": 
   "commitType": "docs",
   "commitConvention": "angular",
   "contributorsPerLine": 7,

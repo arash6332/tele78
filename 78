@@ -1,12 +1,5 @@
 
  
-      
-      
-    
-  "projectName": "bitcoin-circle-stark",
-  "projectOwner": "Bitcoin-Wildlife-Sanctuary",
-  "files": [
-    "README.md"
   ],
     {
       "login": 
@@ -17,6 +10,13 @@
     {
     },
     {
+      
+      
+    
+  "projectName": "bitcoin-circle-stark",
+  "projectOwner": "Bitcoin-Wildlife-Sanctuary",
+  "files": [
+    "README.md"
       "login": "dependabot",
       "name": "Dependabot",
       "avatar_url": "https://avatars.githubusercontent.com/u/27347476?v=4",

@@ -10,7 +10,8 @@
     {
     },
     {
-      
+      "commitType": "docs",
+  "commitConvention": "angular",
       
     
   "projectName": "bitcoin-circle-stark",

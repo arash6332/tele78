@@ -12,8 +12,6 @@
     {
       "commitType": "docs",
   "commitConvention": "angular",
-      
-    
   "projectName": "bitcoin-circle-stark",
   "projectOwner": "Bitcoin-Wildlife-Sanctuary",
   "files": [
@@ -48,7 +46,10 @@
       "profile": "https://github.com/januszgrze",
       "contributions": [
         "review"
-
+"commitType": "docs",
+  "commitConvention": "angular",
+  "projectName": "bitcoin-circle-stark",
+  "projectOwner": "Bitcoin-Wildlife-Sanctuary",
   ]
     },
     {

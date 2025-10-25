@@ -12,8 +12,10 @@ commitConvention": "angular",
     {
     },
     {
-      "commitType": "docs",
-  "commitConvention": "angular",
+      "{
+      "login": 
+  "commitType": "docs",
+  "commitConvention": ular",
   "projectName": "bitcoin-circle-stark",
   "projectOwner": "Bitcoin-Wildlife-Sanctuary",
   "files": [

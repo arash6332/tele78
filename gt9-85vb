@@ -1,5 +1,4 @@
-commitConvention": "angular",
-  "contributorsPerLine": 7,
+": 7,
   "contributors": [
  
   ],
@@ -18,7 +17,8 @@ commitConvention": "angular",
   "commitConvention": ular",
   "projectName": "bitcoin-circle-stark",
   "projectOwner": "Bitcoin-Wildlife-Sanctuary",
-  "files": [
+  "files": [commitConvention": "angular",
+  "contributorsPerLine
     "README.md"
       "login": "dependabot",
       "name": "Dependabot",
